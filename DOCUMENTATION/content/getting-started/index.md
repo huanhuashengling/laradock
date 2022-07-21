@@ -131,7 +131,7 @@ You can rename the config files, project folders and domains as you like, just m
 ...
 ```
 
-If you use Chrome 63 or above for development, don't use `.dev`. [Why?](https://laravel-news.com/chrome-63-now-forces-dev-domains-https). Instead use `.localhost`, `.invalid`, `.test`, or `.example`.
+If you use Chrome 63 or above for development, don't use `.dev`. [Why?](https://laravel-news.com/chrome-63-now-forces-dev-domains-https) . Instead use `.localhost`, `.invalid`, `.test`, or `.example`. !!!Maybe you can only use [.local](https://stackoverflow.com/questions/42636711/google-chrome-ignoring-hosts-file)
 
 4 - Go to the [Usage](#Usage) section.
 
